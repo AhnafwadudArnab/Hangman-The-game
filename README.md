@@ -1,5 +1,6 @@
-🎯 Hangman: The Game
+  🎯 Hangman: The Game 
 A classic word-guessing game built using Dart.
+
 📌 Overview
 Hangman: The Game is a console-based implementation of the traditional Hangman word game, developed in Dart. It challenges players to guess a hidden word one letter at a time before they run out of chances. This project serves as both a fun and educational demonstration of Dart's core programming features such as control structures, string manipulation, and list operations.
 
